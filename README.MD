@@ -5,7 +5,7 @@ This repository contains working files and design assets for the [Wo ist Markt? 
 
 ## Attribution
 
-* [Tobias Preuss][johnjohndoe-github] (basket logo)
+* [Tobias Preuss][johnjohndoe-github] (basket logo, sticker)
 
 
 
